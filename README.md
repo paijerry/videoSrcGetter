@@ -1,5 +1,7 @@
 # videoSrcGetter
 
-{url}/youtube/:vedioid
+## youtube
+{url}/youtube/:vedioID
 
-{url}/vimeo/:vedioid
+## vimeo
+{url}/vimeo/:vedioID
